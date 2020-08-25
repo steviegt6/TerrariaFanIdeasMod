@@ -1,0 +1,3 @@
+displayName = Terraria Fan Ideas Wiki Mod
+author = God Himself
+version = 0.1
